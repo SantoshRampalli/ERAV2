@@ -2,7 +2,7 @@
 The goal of this assignment is to implement and evaluate the performance of a Convolutional Neural Network (CNN) with different normalization techniques on the CIFAR10 dataset.
 - Batch Normalization
 - Group Normalization
-- Linear Normalization
+- Layer Normalization
 
 ## 📓 Notebook and Results
 
