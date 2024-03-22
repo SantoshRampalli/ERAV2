@@ -10,9 +10,10 @@ Below is a table summarizing the performance of each model. It provides links to
 
 | Model | Training Accuracy | Test Accuracy |
 |-------|-------------------|---------------|
+| Batch Normalization | 70.94 % | 75.04 % |
 | Group Normalization | 67.98 % | 71.08 % |
 | Layer Normalization | 67.90 % | 70.14 % |
-| Batch Normalization | 70.94 % | 75.04 % |
+
 
 ## 📈 Findings
 Batch Normalization achieved the highest training and test accuracies. Layer Normalization also performed well, with slightly lower accuracies. Group Normalization was with lowest accuracies among these three techniques.
